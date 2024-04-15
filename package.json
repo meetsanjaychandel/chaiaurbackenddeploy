@@ -1,0 +1,20 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "deploying a backend app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "aur",
+    "backend"
+  ],
+  "author": "sanjay chandel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
